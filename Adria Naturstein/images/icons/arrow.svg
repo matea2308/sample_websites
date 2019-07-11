@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header---dark-background" transform="translate(-603.000000, -65.000000)">
+            <g id="Header">
+                <g id="Menu" transform="translate(324.000000, 57.000000)">
+                    <text font-family="FuturaBT-Medium, Futura Md BT" font-size="16" font-weight="400">
+                        <tspan x="15.2421875" y="15" fill="#FFFFFF">     </tspan>
+                        <tspan x="39.3828125" y="15" fill="#C5B49F">Home</tspan>
+                        <tspan x="83.65625" y="15" fill="#FFFFFF">      Products &amp; References         Services and Installation         Materials         About us      FAQ      Contact   </tspan>
+                    </text>
+                    <polygon id="Arrow-down" fill="#FFFFFF" transform="translate(283.942065, 11.041053) rotate(90.000000) translate(-283.942065, -11.041053) " points="282.04247 6.04105263 280.886195 7.2077193 284.685385 11.0410526 280.886195 14.874386 282.04247 16.0410526 286.997936 11.0410526"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
